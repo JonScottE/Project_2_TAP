@@ -1,17 +1,34 @@
 # Project_2_TAP
-Second Project for Team Awesome Pants
+## Team-Awesome-Pants - Second Project for Team Awesome Pants
+<img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
+     width="220" 
+     height="260"
+     align="left"/> 
 
 
-What Problem are we trying to solve, or what prediction are we trying to make?
+<b>Team Members include:</b>
+</br></br>
+Tara McDaniel </br> Michelle Fesi </br> Andrei E. Stonescu </br> Lareeb Ali </br> Jon Ernest </br>
+</br></br></br>
+</br></br>
+
+# Method and goal
+Using historical data we will attempt to predict future prices on 4 assets: </br></br>
+Gold, SPY, BTC, ETH, using ScykitLearn.</br></br>
+
+From there we will add a layer of sentiment analysis using natural language processing,</br>
+to see if it improves or worsens our model.
+
+Ultimately, we would like to idewntify a predictor in crypto assets </br>
+based on a cross of the price of gold and spy.
 
 
-What data will we feed our model?
+# Data Sources
+ 
+ <a href="https://finance.yahoo.com/">Yahoo Finance </a> For GLD & SPY </br>
 
-
-What machine learning library will we use?
-
-
-
+ <a href="https://api.tiingo.com/">Tiingo </a> For BTC and ETH</br>
+ 
 
 Technical Requirements
 [ ] Create a Jupyter Notebook, **Google Colab** Notebook, or Amazon SageMaker Notebook to prepare a training and testing dataset.
@@ -33,58 +50,17 @@ Technical Requirements
 * [ ] **Create a README.md** in your repo with a write-up summarizing your project. Be sure to include any usage instructions to set up and use the model.
 
 
-# Project_2_TAP
-## Team-Awesome-Pants  
-<img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
-     width="220" 
-     height="260"
-     align="left"/> 
-
-
-
-
-<b>Team Members include:</b>
-</br></br>
-Tara McDaniel </br> Michelle Fesi </br> Andrei E. Stonescu </br> Lareeb Ali </br> Jon Ernest </br>
-</br></br></br>
-</br></br>
-
-
-# Method and goal
-
-By using historical crypto, stock, and gold data, we will compare:</br>
-</br>- Stocks to gold </br>- Altcoins to Bitcoin </br>- Gold to Bitcoin </br>- Altcoins to Stocks
-</br></br>
-Our goal is to show a correlation of the money flows from the digital market to or from traditional markets. 
-
-
-# Data Sources
- 
- <a href="https://finance.yahoo.com/">Yahoo Finance </a> For GLD & SPY </br>
-
- <a href="https://api.tiingo.com/">Tiingo </a> For BTC and ETH</br>
- 
-
-## Questions
-
-# What are the positive and negative correlations of traditional assets to crypto assets?
-
-
-# Do digital assets track with one another?  
 
 
 
 
 
 
-# Do traditional assets track with one another?
 
 
-Challenges here include:
 
         
 
 
-# Can we find data showing capital inflows/outflows between traditional and digital assets?
 
  
