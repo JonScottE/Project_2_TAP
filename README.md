@@ -1,5 +1,5 @@
 # Project_2_TAP
-## Team-Awesome-Pants - Second Project for Team Awesome Pants
+# Second Project for Team Awesome Pants
 <img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
      width="220" 
      height="260"
