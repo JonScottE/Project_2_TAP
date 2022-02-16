@@ -30,7 +30,7 @@ based on a cross of the price of gold and spy.
  <a href="https://api.tiingo.com/">Tiingo </a> For BTC and ETH</br>
  
 
-Technical Requirements
+# Technical Requirements
 [ ] Create a Jupyter Notebook, **Google Colab** Notebook, or Amazon SageMaker Notebook to prepare a training and testing dataset.
 
 * [ ] Optionally, apply a **dimensionality reduction technique** to reduce the input features, or perform feature engineering to generate new features to train the model.
