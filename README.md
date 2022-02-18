@@ -51,7 +51,43 @@ based on a cross of the price of gold and spy.
 
 
 
+Project 2 Timeline
 
+
+Thursday Feb 17:
+**Code in Colab Notebook
+Select Timeframe for data
+Adjust API code for new data sets
+Create dataframes, fit/test models (**sci-kit learn)
+Create visualizations of model evaluation
+Create visualizations of predictions based on a new dataset
+Choose an API for NLP analysis
+Determine Keywords or word combinations
+Start NLP sentiment analysis
+
+
+
+Saturday Feb 19:
+Finish the NLP Sentiment Analysis
+Concatenate Sentiment Analysis with 4 models
+Re-run models
+Create visualizations of model evaluation
+Create visualizations of predictions based on new dataset
+
+
+
+Tuesday Feb 22:
+
+Arrange Visualizations in presentation slides
+Upload .png images of visualizations to the Git Hub
+Finalize Slides and rehearse presentation
+
+
+Thursday Feb 24:
+
+
+
+Saturday Feb 26:  Presentation Day
 
 
 
