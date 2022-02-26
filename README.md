@@ -16,11 +16,12 @@ Tara McDaniel </br> Michelle Fesi </br> Andrei E. Stonescu </br> Lareeb Ali </br
 Using historical data we will attempt to predict future prices on 4 assets: </br></br>
 Gold, SPY, BTC, ETH, using ScykitLearn.</br></br>
 
-From there we will add a layer of sentiment analysis using natural language processing,</br>
-to see if it improves or worsens our model.
 
-Ultimately, we would like to idewntify a predictor in crypto assets </br>
+Ultimately, we would like to identify a predictor in crypto assets </br>
 based on a cross of the price of gold and spy.
+
+The ipyng files in our GitHub are all extremely similar, just with different timeframes. </br></br>
+"Project II" is our primary file.
 
 
 # Data Sources
